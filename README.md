@@ -20,7 +20,7 @@ La aplicación permite al usuario explorar distintas razas de perros, mostrando 
 - **Clean Architecture**
 - **UI State Management**
 - **Mockito** (para pruebas unitarias)
-- **Navigation con NavController** (nueva forma simplificada de navegar entre pantallas)
+- **Type-Safe Navigation** (nueva forma simplificada de navegar entre pantallas)
 - **Testing**: pruebas unitarias básicas y tests de UI
 
 ## 🧪 Testing
