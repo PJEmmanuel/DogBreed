@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DogBreed</string>
+    <string name="list_breed">Breeds</string>
+    <string name="details_breed">Breed</string>
+    <string name="no_data">No Data\n\n</string>
+    <string name="details_origin">Origin:</string>
+    <string name="temperament">Temperament:</string>
+    <string name="Life_span">Life span:</string>
+    <string name="Breed_group">Breed group:</string>
+    <string name="bred_for">Bred for:</string>
+    <string name="name_breed">Name:</string>
+    <string name="button_reload">Reload</string>
+    <string name="Tap_to_get_the_breeds">Tap to get the breeds</string>
+</resources>
